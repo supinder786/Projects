@@ -5,7 +5,7 @@ from selenium import webdriver;
 Timer = 120
 
 #youtube link
-link = 'https://www.youtube.com/watch?v=hW_WFUs3hfQ'
+https://www.youtube.com/watch?v=AZuM3vKQIIk&feature=youtu.be
 
 #number of views
 views = 20
